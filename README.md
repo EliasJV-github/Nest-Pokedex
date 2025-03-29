@@ -17,6 +17,13 @@
 ```
   docker-compose up -d
 ```
+5. Clonar el archivo __.env.template y renombrarlo a __.env
+6. Llenar las variables de entorno definidas en el __.env
+7. Ejecutar la aplicacion en dev:
+8. ```
+  npm run start:dev
+```
+
 ## Stack usado
 * MongoDB
 * Nest
